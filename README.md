@@ -1,24 +1,15 @@
 # 💫 About Me:
-Practical experience delivering end-to-end systems including data ingestion, ML model integration, and real-time deployment pipelines. 
-Portfolio -> https://michaelwave.pythonanywhere.com/
+Systems Engineer | Python Developer<br>Automating the boring stuff. Building proactive tools from real-world sysadmin experience with a software engineering mindset.<br><br>Should you want to explore my work in greater detail; Feel free to look at my portfolio:<br>https://michaelwaveofficial.github.io/
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/michael-king-554a101a1) 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MichaelwaveOfficial&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MichaelwaveOfficial&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelwaveOfficial&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=MichaelwaveOfficial&theme=neon&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=MichaelwaveOfficial&theme=neon&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MichaelwaveOfficial&theme=neon&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MichaelwaveOfficial&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=MichaelwaveOfficial&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
